@@ -1,0 +1,33 @@
+body{
+    background-color: lightcoral;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+}
+ul,
+ol {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+}
+
+.html,
+.css,
+.javascript{
+    width: 1em;
+    height: 1em;
+}
+
+a {
+    font-size: larger;
+    color: brown;
+    text-decoration: none;
+    
+    
+}
+a :hover{
+    color: blueviolet;
+}
+
+.foto{
+    border-radius: 10%;
+}
